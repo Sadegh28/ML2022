@@ -16,3 +16,7 @@
 * Introduction to Machine Learning ([Slides](Materials/intro.pdf))
 * Reading assignment for next week: [Advanced Programming using Python Course]( https://sadegh28.github.io/AP1400-1/) or other similar Python programming courses 
 
+### Week 2
+* Introduction to Probability Theory ([Slides](Materials/ProbabilityTheory.pdf))
+* Reading assignment for next week: Chapter1: Introduction form the book "PRML"
+
