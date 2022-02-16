@@ -18,8 +18,8 @@
 
 ### Week 2
 * Introduction to Probability Theory ([Slides](Materials/ProbabilityTheory.pdf))
-* Reading assignment for next week: Chapter1: Introduction form the book "PRML"
+* Reading assignment for next week: Chapter1: Introduction from the book "PRML"
 
 ### Week 3
 * Probability Distributions and Parametric Density Estimation ([Slides](Materials/ParbabilityDistributions.pdf))
-* Reading assignment for next week: Chapter2: Probability Distributions sections 2.1 to 2.4 form the book "PRML"
+* Reading assignment for next week: Chapter2: Probability Distributions sections 2.1 to 2.4 from the book "PRML"
