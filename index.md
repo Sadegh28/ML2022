@@ -14,3 +14,4 @@
 ## Detailed syllabus
 ### Week 1
 * Introduction to Machine Learning ([Slides](Materials/intro.pdf))
+* Reading assignment for next week: [Advanced Programming using Python Course]( https://sadegh28.github.io/AP1400-1/) 
