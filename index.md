@@ -24,7 +24,7 @@
 * Probability Distributions and Parametric Density Estimation ([Slides](Materials/ParbabilityDistributions.pdf))
 * Reading assignment for next week: Chapter2: Probability Distributions sections 2.1 to 2.4 from the book "PRML"
 
-## Week 4
+### Week 4
 * Non-Parametric Density Estimation ([Slides](Materials/NonparametricDensityEstimation.pdf))
 * Reading assignment for next week: Chapter2: Probability Distributions section 2.5 from the book "PRML"
 
