@@ -28,3 +28,7 @@
 * Non-Parametric Density Estimation ([Slides](Materials/NonparametricDensityEstimation.pdf))
 * Reading assignment for next week: Chapter2: Probability Distributions section 2.5 from the book "PRML"
 
+### Week 5
+* Linear Models for Regression ([Slides](Materials/LinearRegression.pdf)) ([Hands-on basis funtions](Materials/codes/linreg/linear_basis_functions.rar)) ([Hands-on polynomial curve fitting](Materials/codes/linreg/hands-on-scikitlearn.rar)) ([Hands-on California Housing Prediction](Materials/codes/linreg/California-Housing.rar))
+* Reading assignment for next week: Chapter3: Linear Models for Regression from the book "PRML", Chapter2: End-to-End Machine Learning Project from the book "Hands-on"
+
